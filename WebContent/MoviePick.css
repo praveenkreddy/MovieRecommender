@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+.container{
+	width:1170px;
+	height:px;
+}
+.container text-center{
+	width:1170px;
+	height:263px;
+}
+.carousel slide row{
+	width:1170px;
+	height:263px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.carousel-inner{
+	width:1170px;
+	height:375px;
+}
+.form-control{
+	height:28px;
+}
+
+.divider{
+	margin-top:60px;
+}
+
+
+.dircontent {
+	width: 366px;
+	float: left;
+	padding: 5px 15px;
+}
+
+.actorcontent {
+	width: 366px; 
+	float: left;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+}
+.Moviesdetailelistcontent
+{
+	width: 550px; 
+	float: left;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+}
+.GenreBreakDowncontent
+{
+	width: 550px; 
+	float: left;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+}
+ul.b {
+    list-style-type: square;
+}
+
+.moviecontent {
+	width: 366px; 
+	float: left;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+}
+
+.btn-genre dropdown{
+	margin: 75px;
+	border-radius:4px;
+	
+}
+
+.grid-background{
+	background-color:gainsboro;
+}
